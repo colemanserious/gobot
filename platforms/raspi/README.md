@@ -22,7 +22,7 @@ You need to install and have pi-blaster running in the raspberry-pi, you can fol
 
 ### Special note for Raspian Wheezy users
 
-The go vesion installed from the default package repositories is very old and will not compile gobot. You can install go 1.4 as follows:
+The go version installed from the default package repositories is very old and will not compile gobot. You can install go 1.4 as follows:
 
 ```bash
 $ wget -O - http://dave.cheney.net/paste/go1.4.linux-arm~multiarch-armv6-1.tar.gz|sudo tar -xzC /usr/local -f -
